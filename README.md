@@ -1,4 +1,4 @@
-# Cursis Virtuaels - Proyecto
+# CursOS  Virtuales - Proyecto
 
 ## Requisitos
 - Node.js
