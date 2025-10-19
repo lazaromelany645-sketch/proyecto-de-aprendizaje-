@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "veterinaria",
+=======
+  "name": "cursis-virtuaels",
+>>>>>>> 8dd17250913ad1033eec85766e23d0eeebb7adb3
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
