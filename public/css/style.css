@@ -1,0 +1,6 @@
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; }
+.navbar-brand { font-size: 1.25rem; }
+.card { border-radius: 10px; }
+.table-success th { background: #dff6ea; }
+.btn-success { background: #2fa45a; border-color: #2fa45a; }
+.btn-primary { background: #0d6efd; }
